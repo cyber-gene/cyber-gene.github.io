@@ -1,0 +1,15 @@
+baseURL: 'https://cybergene.me/'
+languageCode: ja-jp
+title: Gene in cyberspace
+theme: ananke
+copyright: cybergene
+
+params:
+  ananke_socials:
+  - name: twitter
+    url: https://twitter.com/cybergene
+  - name: github
+    url: https://github.com/cyber-gene
+  - name: mastodon
+    url: https://mstdn.ikebuku.ro/@cybergene
+    rel: me noopener
