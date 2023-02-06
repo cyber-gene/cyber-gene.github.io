@@ -4,7 +4,19 @@ title: Gene in cyberspace
 theme: ananke
 copyright: cybergene
 
+sitemap:
+  changefreq: monthly
+  priority: 0.5
+  filename: sitemap.xml
 params:
+  #description: ""
+  # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  #ackground_color_class: bg-black"
+  recent_posts_number: 3
+  #text_color: "light-gray"
+  aurhor: cybergene
+  favicon: ""
+  site_logo: ""
   ananke_socials:
   - name: twitter
     url: https://twitter.com/cybergene
